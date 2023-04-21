@@ -1,6 +1,6 @@
 # Bicycle-Database
 
-This repository contains files of a database for vehicles rental in Paris. This database is tha main project in the Database course of Aristotle University of Thessaloniki. The project was implemented in MySQL
+This repository contains files of a database for vehicle rentals in Paris. This database is tha main project in the Database course of Aristotle University of Thessaloniki. The project was implemented in MySQL
 
 **EER Diagram** 
 
